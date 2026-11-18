@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetCalculator", "BudgetCalculator\BudgetCalculator.csproj", "{F996C71F-2A0E-4E84-8887-D690F8F075F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetCalculator.Tests", "BudgetCalculator.Tests\BudgetCalculator.Tests.csproj", "{DFC5C975-DBC0-4BA3-9886-A63F9C1CBDAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F996C71F-2A0E-4E84-8887-D690F8F075F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F996C71F-2A0E-4E84-8887-D690F8F075F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F996C71F-2A0E-4E84-8887-D690F8F075F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F996C71F-2A0E-4E84-8887-D690F8F075F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC5C975-DBC0-4BA3-9886-A63F9C1CBDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC5C975-DBC0-4BA3-9886-A63F9C1CBDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC5C975-DBC0-4BA3-9886-A63F9C1CBDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC5C975-DBC0-4BA3-9886-A63F9C1CBDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
